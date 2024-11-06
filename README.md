@@ -1,37 +1,22 @@
 [
   {
-    "text": "تست اول",
-    "link": "https://s8.uupload.ir/files/artworks-9435panowwnprmgb-a6tnfg-t500x500_y7gl.jpg",
+    "text": "پرسپولیس",
+    "link": "https://s8.uupload.ir/files/fc_persepolis_official_logo.svg_kzt9.png",
     "link server": "1"
   },
   {
-    "text": "تست دوم",
-    "link": "https://s8.uupload.ir/files/img_20240216_083013_661_4bab.jpg",
+    "text": "استقلال",
+    "link": "https://s8.uupload.ir/files/esteghlal_tehran_fc_logo.svg_utmc.png",
     "link server": "2"
   },
   {
-    "text": "تست سوم",
-    "link": "https://s8.uupload.ir/files/artworks-9435panowwnprmgb-a6tnfg-t500x500_y7gl.jpg",
-    "link server": "3"
+    "text": "سپاهان",
+    "link": "https://s8.uupload.ir/files/sepahan_new_logo.svg_6vql.png",
+    "link server": "2"
   },
   {
-    "text": "تست چهارم",
-    "link": "https://s8.uupload.ir/files/img_20240216_083013_661_4bab.jpg",
-    "link server": "4"
-  },
-  {
-    "text": "تست پنجم",
-    "link": "https://s8.uupload.ir/files/artworks-9435panowwnprmgb-a6tnfg-t500x500_y7gl.jpg",
-    "link server": "5"
-  },
-  {
-    "text": "تست ششم",
-    "link": "https://s8.uupload.ir/files/img_20240216_083013_661_4bab.jpg",
-    "link server": "6"
-  },
-  {
-    "text": "تست هفتم",
-    "link": "https://s8.uupload.ir/files/artworks-9435panowwnprmgb-a6tnfg-t500x500_y7gl.jpg",
-    "link server": "7"
+    "text": "تراکتور",
+    "link": "https://s8.uupload.ir/files/tractor_logo_iihx.png",
+    "link server": "2"
   }
 ]
