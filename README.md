@@ -1,17 +1,17 @@
 [
   {
-    "text": "پرسپولیس 6",
+    "text": "پرسپولیس",
     "link": "https://s8.uupload.ir/files/fc_persepolis_official_logo.svg_kzt9.png",
     "link server": "1",
     "size y": "80",
-    "size x": "60"
+    "size x": "70"
   },
   {
     "text": "استقلال",
     "link": "https://s8.uupload.ir/files/esteghlal_tehran_fc_logo.svg_utmc.png",
     "link server": "2",
     "size y": "80",
-    "size x": "60"
+    "size x": "70"
   },
   {
     "text": "سپاهان",
