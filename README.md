@@ -1,6 +1,6 @@
 [
   {
-    "text": "پرسپولیس",
+    "text": "پرسپولیس 6",
     "link": "https://s8.uupload.ir/files/fc_persepolis_official_logo.svg_kzt9.png",
     "link server": "1",
     "size y": "80",
